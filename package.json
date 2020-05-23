@@ -48,6 +48,7 @@
     "lint-staged": "^10.2.6",
     "prettier": "^2.0.5",
     "rollup": "^2.10.7",
+    "rollup-plugin-uglify": "^6.0.4",
     "standard-version": "^8",
     "ts-jest": "^25.5.1",
     "typescript": "<3.8.0"
