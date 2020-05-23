@@ -19,7 +19,6 @@
     "test": "jest --coverage",
     "test:watch": "npm test -- --watch"
   },
-  "homepage": "https://remarkablemark.org/imc/",
   "repository": {
     "type": "git",
     "url": "https://github.com/remarkablemark/imc"
