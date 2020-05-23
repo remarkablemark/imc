@@ -14,6 +14,8 @@ cache.set('key', 'value');
 cache.get('key'); // 'value'
 ```
 
+[Repl.it](https://repl.it/@remarkablemark/imc) | [JSFiddle](https://jsfiddle.net/remarkablemark/z4s5qcf6/)
+
 ## Installation
 
 [NPM](https://www.npmjs.com/package/imc):
