@@ -1,0 +1,13 @@
+<script src="../umd/imc.min.js"></script>
+<script>
+  var cache = window.IMC.default;
+  cache.set('key', 'value');
+  console.log("cache.get('key')", cache.get('key'));
+  cache.clear();
+  console.log('cache.get()', cache.get());
+
+  var localCache = new window.IMC.Cache({ answer: 42, foo: 'bar' });
+  console.log("localCache.get('foo')", localCache.get('foo'));
+  localCache.delete('foo');
+  console.log('localCache.get()', localCache.get());
+</script>
