@@ -31,7 +31,7 @@ $ yarn add imc
 [CDN](https://unpkg.com/imc/):
 
 ```html
-<script src="https://unpkg.com/imc@latest/umd/imc.js"></script>
+<script src="https://unpkg.com/imc@latest/umd/imc.min.js"></script>
 <script>
   var cache = window.IMC.cache;
   var Cache = window.IMC.Cache;
